@@ -27,5 +27,10 @@ FEATURES OF PYTHON
 2. Interpreted
 3. Both Procedure Oriented and Object Oriented
 4. Freeware and Open Source and Large Community
-5.  
+5. Platform Independent 
+6. Portable
+7. Dynamically Types Programming Language
+
+
+
 '''
